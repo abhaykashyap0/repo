@@ -1,0 +1,56 @@
+*{
+    color:white;
+
+}
+#navbar{
+    background-color: black;
+    height: 50px;
+    padding-top: 25px;
+}
+a{
+    font-size: 25px;
+    margin-right: 50px;
+    
+}
+#logo{
+    font-size: 35px;
+    color:orange;
+}
+button{
+    color: black;
+    height:30px;
+    background-color: aquamarine;
+    margin-right: 50px;
+}
+input{
+    height: 30px;
+    width: 500px;
+}
+body{
+    background-image:url("blossomcherry.jpeg");
+    background-size: cover;
+}
+#box{
+    background-color: blue;
+    height:100px;
+    width:100px;
+    border:2px solid black;
+    position:sticky;
+    top:20px;
+}
+#footer{
+    background-color: black;
+    height: 50px;
+    padding-top: 0px;
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+}
+#a{
+    margin-right: 300px;
+   
+    margin-top: 0;
+    padding-top: 0px;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
